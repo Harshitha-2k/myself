@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital@1&family=Kanit:wght@300&family=Poppins:ital,wght@1,300&display=swap');
+body{
+    font-family:  'Kanit', sans-serif;
+}
+.header{
+    font-size: 15px;
+    height: 100px;
+    text-align: right;
+    display: inline;
+    
+}
+img{
+    width: 150px;
+    height: 100px;
+    float: left;
+    background-color:#663b3b ;
+}
+#right{
+    padding: 5px;
+    margin: 1px;
+    background-color:#663b3b;
+    color: white;
+}
+.side{
+    color:rgb(13, 11, 11);
+    text-align: left;
+    font-size: 25px;
+    color: white;
+    background-color: #811a25ad;
+}
+#side1{
+ width: 17%;
+}
+#side2{
+    width: 23%;
+}
+#side3{
+    width:5%
+}
+#side4{
+    width:16%;
+}
+#side5{
+    width: 18%;
+}
+#side6{
+    width: 10%;
+}
+.box{
+    table-layout: fixed;
+    width:  100%; 
+    border-collapse: collapse;
+    color: white;
+}
+td,th,tr{
+    text-align: center;
+    border:5px solid white;
+    padding: 6px;
+    box-sizing: border-box;
+    margin:auto;
+    background-color:#a45059ad ;
+    font-size: 20px;
+}
+p{
+    font-size: 30px;
+}
+li{
+  font-size: 30px;
+}
+.footer{
+    color: #663b3b;
+    background-color: #663b3b;
+
+}
