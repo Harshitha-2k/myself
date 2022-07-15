@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link type="text/css" rel="stylesheet" href="style.css">
+     <title>blog</title>
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+    <body>
+        <nav class="blog">
+            <ul>
+                <li id="navbar"><a href="#">Home</a></li>
+                <li id="navbar"><a href="#">Collections</a></li>
+                <li id="navbar"><a href="#">Style</a></li>
+                <li id="navbar"><a href="#">Color</a></li>
+                <li id="navbar"><a href="#">Models</a></li>
+            </ul>
+        </nav>
+        <section>
+           <p class="para1"> Important characteristics of a good quality watch</p>
+           <img id="watch" src="watch4.jpg">
+           <p class="para2">Discover the elements of a good quality watch before you buy it</p>
+           <h1 id="center">A watch is a portable timepiece intended to be carried or worn by a person. It is designed to keep a consistent movement despite the motions caused by the person's activities. A wristwatch is designed to be worn around the wrist, attached by a watch strap or other type of bracelet, including metal bands, leather straps or any other kind of bracelet. A pocket watch is designed for a person to carry in a pocket, often attached to a chain.</h1>
+           <img id="watch" src="watch.jpg" >
+           <span>MATERIAL OF A WATCH</span>
+           <h1 id="center"> A quality watch is at least made of Stainless Steel. A titanium or ceramic watch is harder / better, but those watches also have a more expensive price tag. Stainless steel compared to ‘normal’ steel can not be affected by moisture and perspiration. Also, getting skin irritation is rare with an stainless steel watch.
+            
+            Furthermore, a PVD coating is important to ensure that a gold, rosegold, silver or black watch reserves its color. A watch without coating may discolor within a year by frequent use. The used materials are often displayed on the back of a watch. Note: Stainless steel (watch) back indicates that only the watch back is made of stainless steel.
+            
+            In addition, the weight of the watch may also be a sign of quality. It gives an indication of how solid the used steel is and what kind of movement is used.
+            
+            Further, the better watch brands use 316L stainless steel, which has a higher purity level. The kind of stainless steel and PVD coating is often not marked on the watch. To make sure the kind of stainless steel, you can always check with the seller. But if it is a more expensive brand you can assume that it will be alright.</h1>
+            <img id="watch" src="watch1.jpg">
+            <span> WATER RESISTANCE OF A WATCH</span>
+                <h1 id="center">10 ATM water resistance is associated with a quality watch.  Almost nothing is more damaging to a watch than water. So waterproofing is inextricably linked to a good watch.  The same as with materials and movements, water resistance also has varying degrees.
+                
+                10 ATM water resistance means that the watch is resistant to 100 meters (or 10 bar) pressure. This makes it a good watch for swimming. 5 ATM (showering) and 3 ATM (washing hands) are also water resistance degrees. A watch must be at least 3 ATM waterproof to offer some comfort. Also, water resistance is often indicated on the back of the watch.</h1>
+            <img id="watch" src="watch2.jpg">
+            <span>THE WATCH STRAP</span>
+            <h1 id="center">Above features focused on the watch case. With water resistance, we can make a leap to a good strap. We advise to minimize water contact with a leather strap (which is not waterproof). Furthermore, it is important that the band fits well with the watch case. The seams are meant to be symmetrical and narrow.</h1>
+            <img id="watch" src="watch3.png"> 
+           <div><img id="menwatch" src="menwatch.jpg"><h4>Men's Watch</h4></div>
+            <div><img id="womenwatch" src="womenwatch.jpg"><h5>Women's Watch</h5></div>
+        </section>
+        <footer>
+            <p>GET CONNECTED</p>
+            <div class="footer">
+                <a href="#"><i class="fab fa-facebook"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-instagram"></i></a>
+                <a href="#"><i class="fab fa-youtube"></i></a>
+            </div>
+        </footer>
+    </body>
+</html>

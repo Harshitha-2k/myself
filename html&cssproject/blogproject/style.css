@@ -1,0 +1,97 @@
+.blog{
+    display: flex;
+    color:black;
+    justify-content: center;
+}
+ul{
+    display: flex;
+    font-size:15px;
+    padding-left: 4px;
+}
+ul li a{
+    display: block;
+    text-decoration: none;
+    border-radius: 2ex;
+    padding: 0rem 0.6rem;
+    color: black;
+}
+li#navbar{
+    list-style: none;
+}
+/* Hover */
+a:hover{
+    color:lightgray;
+}
+/* content 1 */
+.para1{
+    display: flex;
+    padding: 2rem 20.9rem;
+    width: 37%;
+    color:white;
+    position: absolute;
+    text-decoration: underline;
+}
+/* content 2 */
+.para2{
+    display: flex;
+    padding: 1rem 26rem;
+    width: 45%;
+}
+#center{
+    font-size: 1rem;
+    display: flex;
+    width: 56%;
+    padding: 6rem 22rem;
+}
+/*watch images  */
+#watch{
+    width:58%;
+    padding: 2rem 20rem ;
+    padding-bottom: 22px;
+    display: flex;
+}
+/* img height */
+#menwatch{
+    height: 251px;
+    display: flex;
+    margin-left: 290px;
+    position: absolute;
+}
+#womenwatch{
+    height: 300px;
+    display: flex;
+    margin-left: 319px;
+    padding-top:348px;
+}
+h4{
+    position: absolute;
+    margin-left:323px;
+}
+h5{
+    position: absolute;
+    margin-left: 326px;
+    margin-top: -14rem;
+}
+span{
+    display: flex;
+    justify-items: center;
+    padding: 2rem 20rem;
+    text-decoration: underline;
+    position: absolute;
+}
+div.footer a{
+    display: inline-flex;
+    justify-content: center;
+    text-decoration: none;
+    padding: 1rem 4rem;
+}
+
+body{
+    @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Crimson+Text:ital@1&family=Kanit:wght@300&family=Poppins:ital,wght@1,300&display=swap');
+    font-family:'Amatic SC', cursive; 
+    @media screen (min-width:300px) and (max-width:800px) {
+    .blog,.content1,.content2{
+        width: 100%;  
+    }
+    
+}
