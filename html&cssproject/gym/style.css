@@ -1,0 +1,72 @@
+body{
+    background-image: url("../gym/gym.jpg");
+    margin: 0%;
+    padding: 0%;
+}
+body{ 
+    @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Cormorant+SC:wght@300&family=Crimson+Text:ital@1&family=Kanit:ital,wght@0,300;1,200&family=Poppins:ital,wght@1,300&display=swap');
+    font-family: 'Amatic SC', cursive;
+}
+nav.gym{
+    display: flex;
+    text-align: center;
+    width: 100%;
+}
+ul{
+    display: flex;
+    padding: 0% 18%;
+}
+ul li a{
+    display: inline-block;
+    padding: 1rem 4rem;
+    text-decoration: none;
+    border-radius: 1px solid lightgray;
+    color:brown;
+}
+li{
+    list-style: none;
+}
+li a:hover{
+    color:black;
+    border-radius: 10px;
+}
+#left{
+    display: inline-flex;
+    padding: 2rem 1rem;
+    top: 2px;
+    position: absolute;
+    color:white;
+}
+div#right{
+    display: inline-flex;
+    top: 31px;
+    right: 50px;
+    position: absolute;
+    text-align: right;
+    color:white;
+}
+hr{
+    margin-top: -2%;
+}
+div.center{
+    float: right;
+    padding: 4rem 9rem;
+    width:350px;
+    border: 3px  ;
+    color: aliceblue;
+}
+img{
+    height: 278px;
+    width: 30px;
+    padding: 1rem 6rem;
+    width: 191px;
+    border: 3px;
+    float: left;
+}
+p{
+    height: 18px;
+    padding: 4rem 6rem;
+    color:aliceblue;
+    width: 23px;
+    font-size: 2rem;
+}

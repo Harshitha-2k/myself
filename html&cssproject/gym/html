@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width", initial-scale=1.0">
+        <link type="text/css" rel="stylesheet" href="style.css">
+        <title>gym</title>
+    </head>
+    <body>
+        <div id="left">DARERFIT</div>
+        <div id="right"><button class="btn">SIGNUP</button></div>
+        <nav class="gym">
+            <ul>
+                <li id="navbar"><a href="#">HOME</a></li>
+                <li id="navbar"><a href="#">CLASSES</a></li>
+                <li id="navbar"><a href="#">TRAINING</a></li>
+                <li id="navbar"><a href="#">CONTACT US</a></li>
+            </ul>
+        </nav><hr>
+        <div><img src="gym1.jpg"><br><P>A STRONG BODY IS NOT MADE IN COMFORT</P></div>
+        <div class="center"><h1>FITNESS COACH </h1>
+            <h3>The hard part isn't getting your body into shape.The hard part is getting your mind into shape.</h3>
+    </body>
+</html>
