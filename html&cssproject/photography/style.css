@@ -1,0 +1,53 @@
+body{ 
+    background-image:url(photo.jpg) ;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.logo{
+    width: 9%;
+    padding: 0rem 2rem;
+    position: absolute;
+    background-color: #eceff1;
+    border-radius: 200px;
+}
+nav.right{
+    display: grid;
+    font-size: small;
+    float: right;
+}
+ul{
+    display: flex;
+    padding: 0rem 5rem;
+
+}
+ul li a{
+    display: inline-block;
+    padding: 1rem 3rem;
+    border-radius:50px ;
+    color: #2b9528;
+    background-color: #eceff1; 
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+li a:hover{
+    background-color:black;
+    border-radius: 50px;
+}
+p{
+    padding: 15rem 30rem;
+    display: block;
+    color: aliceblue;
+    font-size: 20px;
+}
+.footer{
+    display: block;
+    padding: 1rem 4rem;
+}
+a{
+    padding: 0rem 2rem;
+    color: #1c3105;
+    border-radius: 2px;
+
+}

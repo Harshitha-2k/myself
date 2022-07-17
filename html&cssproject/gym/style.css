@@ -17,13 +17,13 @@ ul{
     padding: 0% 18%;
 }
 ul li a{
-    display: inline-block;
-    padding: 1rem 4rem;
+    display: inline;
+    padding: 0rem 2rem;
     text-decoration: none;
-    border-radius: 1px solid lightgray;
+    border: 1px solid lightgray;
     color:brown;
 }
-li{
+li#navbar{
     list-style: none;
 }
 li a:hover{
