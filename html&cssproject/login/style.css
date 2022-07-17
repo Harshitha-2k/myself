@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.form{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#inside{
+    padding: 6rem 6rem;
+    border: 6px;
+     background-color: #9b6060; 
+    border-radius: 50px;
+}
+h1{
+    padding: 1rem 1rem;
+}
+.box{
+    padding: 1rem 0rem;
+}
+.btn{
+    padding:0rem 1rem;
+    border-radius: 20px ;
+}
